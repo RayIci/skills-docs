@@ -1,5 +1,18 @@
 # Skills Docs
 
+<!--toc:start-->
+
+- [Skills Docs](#skills-docs)
+  - [Frontend Development](#frontend-development)
+    - [Extra for Frontend Development](#extra-for-frontend-development)
+      - [MCP Servers](#mcp-servers)
+  - [Security](#security)
+  - [Software Development](#software-development)
+    - [Extra for Software Development](#extra-for-software-development)
+  - [Product Video](#product-video)
+
+<!--toc:end-->
+
 Useful list of skills for various purposes.
 
 ## Frontend Development
